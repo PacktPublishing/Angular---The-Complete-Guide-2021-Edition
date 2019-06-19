@@ -1,0 +1,4 @@
+Make sure you got Recipes in your backend!
+In order to continue with this module and send successful authenticated requests, you need to ensure that you got recipes stored in your backend database.
+
+So in case you deleted those (or never added any), make sure you do add some recipes before you turn on protection as shown in the last lecture!

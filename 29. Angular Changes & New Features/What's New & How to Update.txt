@@ -1,0 +1,18 @@
+What's New & How to Update
+Angular 8 was released and it didn't introduce any breaking changes besides a small temporary one
+
+@ViewChild(...) now becomes @ViewChild(..., { static false }) - the only exception is, if you plan to use the selected element inside of ngOnInit = Use @ViewChild(..., { static true }) in that case. @ViewChild(...) with one argument only will cause an error in Angular 8.
+
+Read the official announcement blog post to learn more about improvements introduced by Angular 8 httpsblog.angular.ioversion-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27source=collection_home---4------0-----------------------
+
+This entire course is up-to-date with Angular 8! I also replaced a couple of sections - NOT because Angular 8 broke something (see above) but because @angularhttp has been deprecated for a while and was now removed. I therefore replaced all lectures where we used that old Http client with lectures where we now use the new one.
+
+I also updated the Authentication section to show a more generic approach (instead of using only the Firebase SDK) and I updated all usages of RxJS operators to the pipe(...) syntax, see httpsacademind.comlearnjavascriptrxjs-6-what-changed
+
+---
+
+Want to update existing projects 
+
+ng update should do the trick.
+
+If you're facing issues, visit httpupdate.angular.io

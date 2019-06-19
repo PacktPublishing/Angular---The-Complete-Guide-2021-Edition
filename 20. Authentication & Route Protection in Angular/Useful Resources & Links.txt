@@ -1,0 +1,6 @@
+Useful Resources & Links
+Useful Docs
+
+Firebase Auth REST API Docs httpsfirebase.google.comdocsreferencerestauth
+
+More on JWT httpsjwt.io

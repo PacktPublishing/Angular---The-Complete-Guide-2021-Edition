@@ -1,0 +1,3 @@
+Further Links & Resources
+Official Angular Service Worker Docs httpsangular.ioguideservice-worker-intro
+Academind Resources on PWAs httpsacademind.comlearnprogressive-web-apps

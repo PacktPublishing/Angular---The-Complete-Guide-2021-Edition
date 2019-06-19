@@ -1,0 +1,16 @@
+Important Official Docs & Starting Project
+Important 
+
+The starting project for this module is attached to this lecture. Please use that project to proceed!
+
+---
+
+Setting up Angular Universal can be difficult and - also depending on the exact version of Angular you're using - there is more than one way of getting it to run.
+
+Also check the official docs in case you get stuck or encounter errors httpsangular.ioguideuniversal
+
+The steps explained there differ from the more detailed approach I show you in this module. In the end, you can skip a lot of the manual setup work we do in this module by simply running
+
+ng add @nguniversalexpress-engine --clientProject your-project-name-as-stored-in-angular.json-file
+npm run buildssr && npm run servessr
+I will also update this module in the future to provide more interesting insights & alternatives to create Angular Universal apps.

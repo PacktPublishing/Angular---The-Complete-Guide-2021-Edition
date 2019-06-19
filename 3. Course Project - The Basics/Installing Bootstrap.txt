@@ -1,0 +1,6 @@
+Installing Bootstrap Correctly
+In the next lecture, we set up the course project. For that, we'll install the Bootstrap CSS Framework.
+
+In this course, we use version 3 of the framework, install it via npm install --save bootstrap@3  => The @3  is important!
+
+Additionally, when using a project created with Angular CLI 6+ (check via ng -v ), you'll have an angular.json  file instead of an .angular-cli.json  file. In that file, you still need to add Bootstrap to the styles[]  array as shown in the next video, but the path should be node_modules/bootstrap/dist/css/bootstrap.min.css , NOT ../node_modules/bootstrap/dist/css/bootstrap.min.css . The leading ../  must not be included.

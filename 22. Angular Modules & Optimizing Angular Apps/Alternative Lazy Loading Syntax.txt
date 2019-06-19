@@ -1,0 +1,22 @@
+Alternative Lazy Loading Syntax
+If you're using Angular 8+, you can use an alternative syntax for specifying lazy-loaded routes
+
+Instead of
+
+const routes Routes = [{
+  path 'your-path',
+  loadChildren '.your-module-pathmodule-name.module#ModuleName'
+}];
+you can use
+
+const routes Routes = [{
+  path 'your-path',
+  loadChildren () = import('.your-module-pathmodule-name.module').then(m = m.ModuleName)
+}];
+Please note, that you need to ensure that in your tsconfig.json file, you use
+
+module esnext,
+instead of
+
+module es2015,
+Why would you use this syntax In the future, it'll replace the string-only approach (i.e. the first alternative mentioned here). It also will give you better IDE support.

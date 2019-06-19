@@ -1,0 +1,23 @@
+Project Cleanup
+There's one thing I forgot to clean up here (will be cleaned up later in the course). Feel free to do the cleanup right now though.
+
+Our app.component.html file looks like that
+
+app-header (featureSelected)=onNavigate($event)app-header
+div class=container
+  div class=row
+    div class=col-md-12
+      router-outletrouter-outlet
+    div
+  div
+div
+The (featureSelected)=...  event listener is a relict of our old navigation approach using ngIf. We no longer need it, so feel free to change this template to
+
+app-headerapp-header
+div class=container
+  div class=row
+    div class=col-md-12
+      router-outletrouter-outlet
+    div
+  div
+div
