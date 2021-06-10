@@ -1,0 +1,5 @@
+Important: Remaining Lectures
+
+Important: As mentioned in the previous vides, the next lectures are a bit older. There, we set up the entire process manually (you had to do that in the past) and since that might be interesting, I decided to keep those lectures around.
+
+You find no code attached anymore since these lectures build up on old course content which was removed. You can't code along therefore but you can see the steps the ng add command basically applies.

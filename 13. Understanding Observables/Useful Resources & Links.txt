@@ -1,8 +1,7 @@
-Useful Resources & Links
-Useful Resources
+Useful Resources:
 
-Official Docs httpsrxjs-dev.firebaseapp.com
+Official Docs: https://rxjs-dev.firebaseapp.com/
 
-RxJS Series httpsacademind.comlearnjavascriptunderstanding-rxjs
+RxJS Series: https://academind.com/learn/javascript/understanding-rxjs/
 
-Updating to RxJS 6 httpsacademind.comlearnjavascriptrxjs-6-what-changed
+Updating to RxJS 6: https://academind.com/learn/javascript/rxjs-6-what-changed/

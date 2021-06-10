@@ -1,0 +1,2 @@
+Make sure you have FormsModule added!
+One quick note: In case you're hitting an error in the next lecture, make sure you have FormsModule added to your imports[] in the AppModule.

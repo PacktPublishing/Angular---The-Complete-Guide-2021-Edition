@@ -5,10 +5,6 @@ If the CLI prompts you to answer some questions (some versions do that), you can
 
 The CLI generates a different welcome screen than you're going to see in my video though. No worries, you'll still be able to follow along without issues! Just make sure to code along so that your code equals mine - Angular itself didn't change a bit :)
 
-Depending on the CLI version you're using, you might also need to add the FormsModule  to the imports[]  array in your app.module.ts  file (add it if you don't see it there). You might not fully understand what that all means but we're going to cover that in this course, no worries.
-
-If you don't have FormsModule  in imports[]  in AppModule , please do add it and also add an import at the top of that file: import { FormsModule } from '@angular/forms'; 
-
 -----
 
 If you want to dive deeper into the CLI and learn more about its usage, have a look at its official documentation: https://github.com/angular/angular-cli/wiki
@@ -29,7 +25,7 @@ Updating the CLI
 
 [sudo] npm uninstall -g angular-cli @angular/cli 
 
-npm cache clean 
+npm cache verify 
 
 [sudo] npm install -g @angular/cli 
 

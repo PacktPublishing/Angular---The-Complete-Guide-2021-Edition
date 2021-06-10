@@ -1,6 +1,6 @@
 Useful Resources & Links
-Useful Resources
+Useful Resources:
 
-Official Docs httpsangular.ioguidengmodules
+Official Docs: https://angular.io/guide/ngmodules
 
-NgModules FAQ httpsangular.ioguidengmodule-faq
+NgModules FAQ: https://angular.io/guide/ngmodule-faq

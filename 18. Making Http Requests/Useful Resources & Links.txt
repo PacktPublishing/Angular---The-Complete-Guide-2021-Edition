@@ -1,8 +1,8 @@
 Useful Resources & Links
-Useful Resources
+Useful Resources:
 
-Official Docs httpsangular.ioguidehttp
+Official Docs: https://angular.io/guide/http
 
-https://academind.com/learn/node-js/building-a-restful-api-with/
+Building a REST API: https://academind.com/learn/node-js/building-a-restful-api-with/
 
-https://academind.com/learn/javascript/hide-javascript-code/
+Securing JS code: https://academind.com/learn/javascript/hide-javascript-code/

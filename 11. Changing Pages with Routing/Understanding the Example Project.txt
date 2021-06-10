@@ -1,5 +1,5 @@
 Understanding the Example Project
-In our app, we got three sections
+In our app, we got three sections:
 
 Home
 Servers

@@ -1,0 +1,15 @@
+Alternative NgRx Syntax
+The NgRx team also released an alternative syntax for creating actions, reducers, effects etc.
+
+The approach and setup shown in this course is a bit more verbose (which actually has the advantage of seeing more of the things that go on under the hood). Exploring the alternative, a bit shorter syntax might therefore be an interesting next step.
+
+Jost created a nice post where he summarizes the new syntax + how to adjust the course project to use it: https://www.udemy.com/the-complete-guide-to-angular-2/learn/lecture/14466642#questions/7350498
+
+You also find the transformed code attached to this lecture!
+
+Also check out the official docs to learn more about it: https://ngrx.io/docs
+
+Again, just because it's important: This syntax is not better, faster or more secure than the one taught in the course. The entire switch of the official docs is pretty drastic (and hard to understand to be very honest) since the syntax taught in this course was the syntax used for close to two years now. Many teams will certainly still be on that syntax and that alone is a strong reason to learn it.
+
+Resources for this lecture
+ngrx-create-functions-syntax.zip

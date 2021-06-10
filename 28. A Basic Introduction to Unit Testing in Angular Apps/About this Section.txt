@@ -1,0 +1,4 @@
+About this Section
+This Section only provides an Introduction to Unit Testing an Angular 2+ App.
+
+It's NOT a detailed Guide about that neither is it a detailed Introduction to Unit Testing in general. Check out the "Further Resources" (last Lecture in this Module) to dive deeper into these topics.

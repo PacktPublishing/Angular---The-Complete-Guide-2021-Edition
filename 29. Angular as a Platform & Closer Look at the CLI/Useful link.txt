@@ -1,0 +1,2 @@
+Getting started with Git:
+https://academind.com/learn/web-dev/git-the-basics/

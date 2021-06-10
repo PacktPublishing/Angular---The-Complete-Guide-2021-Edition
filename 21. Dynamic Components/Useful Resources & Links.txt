@@ -1,4 +1,4 @@
 Useful Resources & Links
-Useful Resources
+Useful Resources:
 
-Official Docs httpsangular.ioguidedynamic-component-loader
+Official Docs: https://angular.io/guide/dynamic-component-loader

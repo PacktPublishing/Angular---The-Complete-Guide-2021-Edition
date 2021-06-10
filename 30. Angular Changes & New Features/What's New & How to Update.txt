@@ -11,8 +11,14 @@ I also updated the Authentication section to show a more generic approach (inste
 
 ---
 
-Want to update existing projects 
+Angular 9 was released and it didn't introduce any breaking changes.
+
+You can read the official announcement blog post or watch my video to learn more about the new version.
+
+---
+
+Want to update existing projects? 
 
 ng update should do the trick.
 
-If you're facing issues, visit httpupdate.angular.io
+If you're facing issues, visit: http://update.angular.io
